@@ -1,3 +1,8 @@
+---
+title: Skin Scout Privacy Policy
+permalink: /privacy-policy/
+---
+
 # Privacy Policy for Skin Scout
 
 **Effective date:** 18-05-2026
